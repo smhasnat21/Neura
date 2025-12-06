@@ -1,0 +1,7 @@
+{
+  "name": "Neura",
+  "description": "A real-time AI phone agent dashboard and simulator. Features an interactive browser-based voice agent demo, call analytics, and deployment resources for Twilio & ElevenLabs integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
